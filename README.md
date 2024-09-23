@@ -5,7 +5,7 @@ Proyek ini adalah implementasi dari  **Algoritma Pengurutan** untuk mengurutkan 
 
 ## Persyaratan
 Sebelum menjalankan proyek ini, pastikan Anda sudah menginstall:
-- Python 3.x
+- Python 3.x https://learn.microsoft.com/id-id/windows/python/beginners 
 
 ## Instalasi
 Clone repository ini ke dalam direktori lokal Anda dengan perintah berikut:
