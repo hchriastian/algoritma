@@ -11,7 +11,7 @@ def selection_sort(arr):
         arr[i], arr[min_idx] = arr[min_idx], arr[i]
 
 # Contoh penggunaan
-arr = [64, 25, 12, 22, 11]
+arr = [64, 25, 12, 22, 11, 90, 66, 64]
 print("Array sebelum diurutkan:", arr)
 
 selection_sort(arr)
