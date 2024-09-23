@@ -5,9 +5,9 @@ Proyek ini adalah implementasi dari  **Algoritma Pengurutan** untuk mengurutkan 
 
 1. Bubble Sort https://github.com/hchriastian/algoritma/blob/main/bubble_sort.py 
 *Penjelasan*:
-Iterasi: Pada setiap iterasi, elemen terbesar "mengambang" ke posisi akhir dari array yang belum terurut.
-Pengurangan Batas: Pada iterasi berikutnya, kita tidak perlu mengecek elemen terakhir karena sudah terurut.
-Efisiensi: Jika pada suatu iterasi tidak ada elemen yang ditukar, proses sorting dihentikan karena array sudah terurut. 
+- Iterasi: Pada setiap iterasi, elemen terbesar "mengambang" ke posisi akhir dari array yang belum terurut.
+- Pengurangan Batas: Pada iterasi berikutnya, kita tidak perlu mengecek elemen terakhir karena sudah terurut.
+- Efisiensi: Jika pada suatu iterasi tidak ada elemen yang ditukar, proses sorting dihentikan karena array sudah terurut. 
 
 ## Persyaratan
 Sebelum menjalankan proyek ini, pastikan Anda sudah menginstall:
