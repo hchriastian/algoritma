@@ -46,9 +46,9 @@ Proyek ini adalah implementasi dari  **Algoritma Pengurutan** untuk mengurutkan 
 
     *Penjelasan*:
 
-- Heapify: Sub-fungsi heapify digunakan untuk menjaga struktur max heap. Max heap adalah struktur di mana elemen terbesar selalu berada di posisi root.
-- Membangun Max Heap: Array awal diubah menjadi max heap.
-- Ekstraksi Elemen: Elemen terbesar (root) ditempatkan pada akhir array, kemudian heap diperbaiki (heapify) agar tetap menjadi max heap.
+- Pembagian array: Setiap kali fungsi merge_sort dipanggil, array dibagi menjadi dua bagian sampai panjang array menjadi 1.
+- Penggabungan: Setelah array dipecah, elemen-elemen dari setiap bagian digabungkan dalam urutan yang benar (diurutkan).
+- Rekursi: Fungsi ini berjalan secara rekursif untuk setiap bagian yang dipisah sampai semua elemen disusun kembali dalam urutan yang benar.
 
 
 7. **Quick Sort menggunakan pivot** https://github.com/hchriastian/algoritma/blob/main/quick_sort_pivot.py
