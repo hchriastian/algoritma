@@ -18,7 +18,7 @@ def bubble_sort(arr):
             break
 
 # Contoh penggunaan
-arr = [64, 34, 25, 12, 22, 20, 90]
+arr = [64, 34, 25, 12, 22, 20, 90, 88, 55]
 print("Array sebelum diurutkan:", arr)
 
 bubble_sort(arr)
